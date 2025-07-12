@@ -17,6 +17,9 @@
   <a href="https://leetcode.com/yourprofile/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
+  <a href="https://medium.com/@yourprofile">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
 </p>
 
 ---
@@ -70,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -79,6 +82,16 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="yourusername" />
+</div>
+
+<!-- Snake Game Contribution Graph -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -97,6 +110,21 @@
 
 ---
 
+## 🎧 Now Playing on Spotify
+
+[![Spotify](https://spotify-readme-psi.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How I Built My First Django Project](https://medium.com/@yourusername/how-i-built-my-first-django-project)
+- [Python Tips for Beginners](https://medium.com/@yourusername/python-tips-for-beginners)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 📫 Let's Connect
 
 <p align="center">
@@ -108,6 +136,9 @@
   </a>
   <a href="https://github.com/yourusername">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40"/>
   </a>
 </p>
 
